@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/.vscode
+*.docx
+*.zip
+
+Final Project/WildfireDS.sqlite

@@ -1,0 +1,1 @@
+SELECT * FROM Fires LIMIT 100;
